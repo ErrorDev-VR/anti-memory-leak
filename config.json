@@ -1,0 +1,5 @@
+{
+    "process_name": "VRChat.exe",
+    "memory_limit_mb": 55000,
+    "check_interval": 5
+}
